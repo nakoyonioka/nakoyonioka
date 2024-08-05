@@ -23,23 +23,6 @@ I'm a passionate **Hardware Engineer** with a knack for bridging the gap between
 - 📱 Explore mobile app development with Kotlin
 - 🌐 Create interactive web interfaces using JavaScript and HTML
 
-## 🌟 My Strengths
-
-```python
-skills = {
-    "Hardware Engineering": "Excellent",
-    "Python": "Strong",
-    "C Programming": "Proficient",
-    "Continuous Learning": "Always"
-}
-```
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects or discuss the latest in hardware and robotics. Feel free to reach out!

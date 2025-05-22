@@ -22,7 +22,3 @@ My proficiency spans across several key domains, enabling end-to-end project exe
 * **Microcontroller Ecosystems:** Deep experience with **STM32, Raspberry Pi, Arduino, ESP32, and 8051** series microcontrollers, covering development, debugging, and deployment.
 * **Programming Languages:** Strong command of **C/C++** for embedded development, **Python** for automation and data science, **Kotlin** for robust Android applications, and **JavaScript/HTML** for web-based projects.
 * **Robotics & Advanced Concepts:** Actively engaged in **ROS2 (Robot Operating System 2)** for robotics development and exploring the practical applications of **Machine Learning on the Edge**.
-
----
-
-Whether it's discussing the intricacies of functional safety, new hardware architectures, or integrated tech solutions, I'm always interested in connecting with fellow engineers and innovators. Let's build something impactful together!

@@ -2,7 +2,7 @@
 
 ---
 
-I'm a dedicated Hardware Engineer with **7 years of experience** specializing in the design, development, and validation of electronic products. My passion lies in solving complex engineering challenges, particularly within safety-critical domains, through innovative circuit design and seamless hardware-firmware integration.
+I'm a dedicated Hardware Engineer with **7 years of experience** specializing in the design, development, and validation of electronic products. My passion lies in solving complex engineering challenges through innovative circuit design and seamless hardware-firmware integration.
 
 ### Professional Experience & Key Contributions
 

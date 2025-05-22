@@ -1,28 +1,28 @@
-# 👋 Hello, tech enthusiasts and fellow developers!
+# Hardware Engineer | Functional Safety & Advanced Electronics
 
-<div align="center">
-  <img src="https://your-image-url-here.com/hardware-developer.gif" alt="Hardware Developer GIF" width="300">
-</div>
+---
 
-## 🚀 About Me
+I'm a dedicated Hardware Engineer with **7 years of experience** specializing in the design, development, and validation of electronic products. My passion lies in solving complex engineering challenges, particularly within safety-critical domains, through innovative circuit design and seamless hardware-firmware integration.
 
-I'm a passionate **Hardware Engineer** with a knack for bridging the gap between hardware and software. My expertise lies in crafting innovative solutions that bring ideas to life through a perfect blend of circuits and code.
+### Professional Experience & Key Contributions
 
-### 🛠️ Tech Stack
+My career is distinguished by contributions to demanding and innovative fields:
 
-- **Hardware**: PCB Design, Microcontrollers, Sensors, Actuators
-- **Software**: Python, C, JavaScript, HTML, Kotlin
-- **Robotics**: ROS2 (Robot Operating System 2)
-- **Tools**: Git, Jira, Altium, KiCad, Arduino IDE, VSCode
+* **Functional Safety in Railway Systems:** I've designed and validated electronic hardware for **railway control systems** (digital, industrial analog I/O, power supplies) and **railway signaling systems**, achieving certifications up to **SIL2 and SIL4**. This involved rigorous adherence to safety standards and comprehensive testing.
+* **Precision Monitoring (Partial Discharge):** My work on transformer monitoring systems included specialized electronics design for **partial discharge detection**, requiring high-fidelity analog front-ends and robust data acquisition.
+* **Prototyping & Innovation:** I spearheaded the electronic and PCB coil design for an **in-wheel motor prototype** for bicycles, showcasing expertise in compact power electronics integration and novel design.
 
-## 💡 What I Do
+Beyond design, I possess hands-on experience with critical product validation processes, including **EMC testing, environmental testing, FMEA (Failure Mode and Effects Analysis)**, and other quality assurance methodologies.
 
-- 🤖 Develop cutting-edge robotics projects using ROS2
-- 🔧 Design and prototype hardware solutions for complex problems
-- 🐍 Craft efficient Python scripts for hardware control and data analysis
-- 📱 Explore mobile app development with Kotlin
-- 🌐 Create interactive web interfaces using JavaScript and HTML
+### Core Technical Skills
 
-## 🤝 Let's Connect!
+My proficiency spans across several key domains, enabling end-to-end project execution:
 
-I'm always excited to collaborate on innovative projects or discuss the latest in hardware and robotics. Feel free to reach out!
+* **EDA Tools:** Expert user of **Altium Designer** and **KiCad** for all aspects of schematic capture, complex multi-layer PCB layout, and design rule management.
+* **Microcontroller Ecosystems:** Deep experience with **STM32, Raspberry Pi, Arduino, ESP32, and 8051** series microcontrollers, covering development, debugging, and deployment.
+* **Programming Languages:** Strong command of **C/C++** for embedded development, **Python** for automation and data science, **Kotlin** for robust Android applications, and **JavaScript/HTML** for web-based projects.
+* **Robotics & Advanced Concepts:** Actively engaged in **ROS2 (Robot Operating System 2)** for robotics development and exploring the practical applications of **Machine Learning on the Edge**.
+
+---
+
+Whether it's discussing the intricacies of functional safety, new hardware architectures, or integrated tech solutions, I'm always interested in connecting with fellow engineers and innovators. Let's build something impactful together!
